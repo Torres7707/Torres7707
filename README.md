@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 
-![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Torres7707&show_icons=true&theme=gotham) <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres7707&theme=gotham&layout=compact)](https://github.com/Chamepp/Chamepp)
+[![Torres's github stats](https://github-readme-stats.vercel.app/api?username=Torres7707&show_icons=true&theme=gotham)](https://github.com/Torres7707/Torres7707) <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres7707&theme=gotham&layout=compact)](https://github.com/Torres7707/Torres7707)
 
 </details>
