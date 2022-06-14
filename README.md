@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 27 mins  ███████████████████████▒░   93.40 %
-SCSS         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+TypeScript   14 hrs 1 min    ███████████████████████▒░   93.36 %
+Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
