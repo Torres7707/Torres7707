@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 **Coding time last week...**  
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   10 hrs 40 mins  ████████████████████░░░░░   79.52 %
-SCSS         1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-HTML         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+```txt
+TypeScript   13 hrs 20 mins  ████████████████████░░░░░   80.64 %
+SCSS         1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Other        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+HTML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
