@@ -3,7 +3,7 @@
   <a href="https://github.com/Torres7707"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
 <!--   <a href="https://gitee.com/eternidad33"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/qq_42907802"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a> -->
-  <a href="https://wakatime.com/@Tian"><img src="https://wakatime.com/badge/user/938325ad-aa1b-4e8a-8efd-04fff7660bd5.svg" alt="Total time coded since May 07 2020" /></a>
+  <a href="https://wakatime.com/@2e3827b5-a801-4286-bfa1-836bf10ac195"><img src="https://wakatime.com/badge/user/2e3827b5-a801-4286-bfa1-836bf10ac195.svg" alt="Total time coded since Feb 25 2022" /></a>
 </p>
 
 <img align='right' src="https://profile-counter.glitch.me/Torres7707/count.svg" alt="访客数量"/>
