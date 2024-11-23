@@ -42,7 +42,7 @@ JSON         16 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+[![An image of @torres7707's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/torres7707)](https://holopin.io/@torres7707)
 <details>
 <summary>GitHub Stats</summary>
 
