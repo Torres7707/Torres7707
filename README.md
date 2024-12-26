@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 46 mins    ██████████████████████▒░░   88.81 %
-Other        10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
