@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   9 hrs 29 mins   ████████████████████████░   95.45 %
-JSON    24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-TSX     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other   11 hrs 18 mins  ████████████████████████▒   97.55 %
+TSX     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
