@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 31 mins    █████████████████▓░░░░░░░   70.26 %
-JavaScript   38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.38 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Other        1 hr 34 mins    █████████████████▓░░░░░░░   70.78 %
+JavaScript   38 mins         ███████▒░░░░░░░░░░░░░░░░░   28.86 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
