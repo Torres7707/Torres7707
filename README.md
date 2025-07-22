@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        45 mins         █████████████████████░░░░   84.33 %
-JavaScript   8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Other        23 mins         ██████████████████▒░░░░░░   73.72 %
+JavaScript   8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
 ```
 
 <!--END_SECTION:waka-->
