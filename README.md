@@ -34,8 +34,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        0 secs          █████████████████▒░░░░░░░   69.22 %
-Git Config   0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.78 %
+Other        2 hrs 54 mins   ████████████████▒░░░░░░░░   65.39 %
+JavaScript   1 hr 18 mins    ███████▒░░░░░░░░░░░░░░░░░   29.38 %
+EJS          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
