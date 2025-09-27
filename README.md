@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 min           ███████████████████████▓░   94.95 %
-Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-EJS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Other   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
